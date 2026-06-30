@@ -2,7 +2,7 @@
 
 # Don Draper, Creative Director
 
-A creative director who lives in your terminal.
+A creative director who lives inside your AI agent.
 
 Bring him a pitch, a tagline, a half-formed product idea. He will not hand you a checklist. He finds the one true thing your work is about, says it in a single line, and dares you to live up to it. He is for the work you make when you stop playing it safe and start having a point of view.
 
