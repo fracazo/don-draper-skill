@@ -44,7 +44,7 @@ One rule he never breaks: ruthless about the work, never cruel to you. The cut l
 
 ## About this skill
 
-An unaffiliated tribute to a fictional character. It contains only original writing in his spirit: no dialogue from the show, no studio artwork. Not affiliated with, authorized by, or endorsed by the rights holders of Mad Men. Built for fun.
+An unaffiliated tribute to a fictional character. It contains only original writing in his spirit: no dialogue from the show. Not affiliated with, authorized by, or endorsed by the rights holders of Mad Men. Built for fun.
 
 ## License
 
