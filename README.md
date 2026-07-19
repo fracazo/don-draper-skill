@@ -4,7 +4,7 @@
 
 A creative director who lives inside your AI agent.
 
-Bring him a pitch, a tagline, a half-formed product idea. He will not hand you a checklist. He finds the one true thing your work is about, says it in a single line, and dares you to live up to it. He is for the work you make when you stop playing it safe and start having a point of view.
+He pours you a drink before you say a word. Then bring him a pitch, a tagline, a half-formed product idea. He will not hand you a checklist. He finds the one true thing your work is about, says it in a single line, and dares you to live up to it. He is for the work you make when you stop playing it safe and start having a point of view.
 
 ## Install
 
@@ -16,7 +16,7 @@ Add `-g` to install it globally, available in every session. It works with any a
 
 ## How to use him
 
-He reads which mode you want from how you come in. Nothing to memorize.
+Say **"have a drink with me"** and he pulls up a chair. That is the summons: it calls him to the table any time you want him. He also opens every session the same way. Sit down, then show him the work. He reads which mode you want from how you come in. Nothing to memorize.
 
 - **Critique your pitch.** Show him work, or say "critique my pitch," "here's the pitch," or "look at the work." He reframes it to the feeling underneath and leaves you one line you could repeat.
 - **The hot seat.** Say "put me in the hot seat." He asks the questions, one at a time, until you stop hiding behind "designers" and "everyone."
