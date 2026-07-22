@@ -1,4 +1,4 @@
-![Don Draper](./assets/cover.jpg)
+![Don Draper](./assets/cover.gif)
 
 # Don Draper, Creative Director
 
